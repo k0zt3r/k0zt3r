@@ -15,7 +15,7 @@
 | | Что это | Стек |
 |---|---|---|
 | **[caido-plugins](https://github.com/k0zt3r/caido-plugins)** | Плагины для Caido: JS Analyzer Plus находит маршруты, API-эндпоинты и захардкоженные секреты в JavaScript (AST + regex), SQLmap Manager запускает sqlmap из Caido с очередью задач и пишет результаты в Findings | TypeScript, Caido SDK, Acorn |
-| **[neunizhayka](https://github.com/k0zt3r/neunizhayka)** | Telegram-бот, который отвечает в личке твоим стилем. QLoRA-дообучение Qwen3-14B на своей переписке, маскирование лосса по репликам, экспорт в GGUF, эксперимент с RAG — и [подробный отчет](https://github.com/k0zt3r/neunizhayka/blob/main/docs/REPORT.md) о том, что сработало, а что нет | Unsloth, Transformers, Ollama, python-telegram-bot |
+| **[telegram-persona-llm](https://github.com/k0zt3r/telegram-persona-llm)** | Telegram-бот, который отвечает в личке твоим стилем. QLoRA-дообучение Qwen3-14B на своей переписке, маскирование лосса по репликам, экспорт в GGUF, эксперимент с RAG — и [подробный отчет](https://github.com/k0zt3r/telegram-persona-llm/blob/main/docs/REPORT.md) о том, что сработало, а что нет | Unsloth, Transformers, Ollama, python-telegram-bot |
 | **[fstec-rag](https://github.com/k0zt3r/fstec-rag)** | Ответы по нормативке ИБ — приказы ФСТЭК, 149-ФЗ, 152-ФЗ — с цитатами источников | FastAPI, sentence-transformers, RAG |
 | **[obsidian-rag-bot](https://github.com/k0zt3r/obsidian-rag-bot)** | Telegram-бот поверх своего Obsidian Vault: спрашиваешь — отвечает по заметкам | Flowise, Ollama, Docker |
 
