@@ -14,6 +14,7 @@
 
 | | Что это | Стек |
 |---|---|---|
+| **[wordcraft-normokontrol](https://github.com/k0zt3r/wordcraft-normokontrol)** | Помощник по нормоконтролю ИрГУПС: титульник, рамки и штампы, содержание, список источников и генератор шифра работы. Оформляет DOCX через Wordcraft и выдаёт PDF с отчётом о проверке | Python, Tkinter, Wordcraft CLI, PyMuPDF |
 | **[ad-report-intake](https://github.com/k0zt3r/ad-report-intake)** | Локальный модуль для подготовки контекста Active Directory из отчётов об ИС: извлекает признаки с источниками, позволяет проверить выводы и отдаёт JSON с вектором защитных мер для будущего агента | Python, HTML/JS, PyMuPDF |
 | **[caido-plugins](https://github.com/k0zt3r/caido-plugins)** | Плагины для Caido: JS Analyzer Plus находит маршруты, API-эндпоинты и захардкоженные секреты в JavaScript (AST + regex), SQLmap Manager запускает sqlmap из Caido с очередью задач и пишет результаты в Findings | TypeScript, Caido SDK, Acorn |
 | **[telegram-persona-llm](https://github.com/k0zt3r/telegram-persona-llm)** | Telegram-бот, который отвечает в личке твоим стилем. QLoRA-дообучение Qwen3-14B на своей переписке, маскирование лосса по репликам, экспорт в GGUF, эксперимент с RAG — и [подробный отчет](https://github.com/k0zt3r/telegram-persona-llm/blob/main/docs/REPORT.md) о том, что сработало, а что нет | Unsloth, Transformers, Ollama, python-telegram-bot |
